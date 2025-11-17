@@ -2,5 +2,4 @@
 
 Como utilizar este repositório
 
-alteração feita no computador
-
+1. Leia o livro Pro Git para revisar os comandos
